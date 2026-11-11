@@ -36,7 +36,7 @@
           </div>
           <div v-else class="empty-bag">
             <ion-icon :icon="bagHandleOutline" aria-hidden="true" />
-            <h2>Your bag is waiting for a good find.</h2>
+            <h2>Your Bag is waiting for a good find.</h2>
             <p>Add a one-of-a-kind piece from the shop and it will appear here.</p>
             <router-link class="checkout-button" to="/home">Explore the shop</router-link>
           </div>
